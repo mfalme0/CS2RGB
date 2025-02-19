@@ -85,5 +85,5 @@ Game events and system logs are stored in `cs2_gsi.log`.
 This project is open-source and available under the MIT License.
 
 ## Author
-[Your Name](https://github.com/mfalme0)
+[mfalme](https://github.com/mfalme0)
 
