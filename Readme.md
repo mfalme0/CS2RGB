@@ -18,7 +18,7 @@ This project integrates Counter-Strike 2 (CS2) with OpenRGB to dynamically chang
 1. Clone this repository:
    ```sh
    git clone https://github.com/mfalme0/cs2rgb.git
-   cd cs2-openrgb-gsi
+   cd cs2rgb
    ```
 2. Install dependencies:
    ```sh
